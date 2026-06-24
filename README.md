@@ -1,3 +1,5 @@
+<img width="1918" height="728" alt="Screenshot 2026-06-24 164322" src="https://github.com/user-attachments/assets/c62cca9e-7101-45cd-9c41-76b89b0c0e6e" />
+<img width="1892" height="913" alt="Screenshot 2026-06-24 164232" src="https://github.com/user-attachments/assets/e7c8a52e-185f-4d9b-825c-b71bf14f642e" />
 # zenteiQ-assessment
 Dashboard Fixes
 
